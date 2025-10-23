@@ -75,16 +75,3 @@
 </div>
 
 ###
-
-<h3 align="left"></h3>
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/PauloJJ/PauloJJ/output/snake.svg" alt="Snake animation" />
-
-###
