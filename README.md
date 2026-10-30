@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I’m a Senior Mobile App Developer with over 7 years of experience creating high-quality, cross-platform applications using Flutter. From business and e-commerce apps to e-learning platforms, booking systems, delivery solutions, and marketplaces — I’ve successfully delivered clean, scalable, and fully functional apps for startups and established companies around the world.<br><br>I’m also the founder and CEO of GoApp, a Brazilian startup focused on mobile app development and digital innovation.</p>
+<p align="left">I’m a Senior Mobile App Developer with over 9 years of experience creating high-quality, cross-platform applications using Flutter. From business and e-commerce apps to e-learning platforms, booking systems, delivery solutions, and marketplaces — I’ve successfully delivered clean, scalable, and fully functional apps for startups and established companies around the world.<br><br>I’m also the founder and CEO of GoApp, a Brazilian startup focused on mobile app development and digital innovation.</p>
 
 ###
 
